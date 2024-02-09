@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/performance-monitor-FE/static/css/main.9ab7e7b1.css",
+    "main.js": "/performance-monitor-FE/static/js/main.9740bcb7.js",
+    "static/js/787.7fb056b1.chunk.js": "/performance-monitor-FE/static/js/787.7fb056b1.chunk.js",
+    "index.html": "/performance-monitor-FE/index.html",
+    "main.9ab7e7b1.css.map": "/performance-monitor-FE/static/css/main.9ab7e7b1.css.map",
+    "main.9740bcb7.js.map": "/performance-monitor-FE/static/js/main.9740bcb7.js.map",
+    "787.7fb056b1.chunk.js.map": "/performance-monitor-FE/static/js/787.7fb056b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab7e7b1.css",
+    "static/js/main.9740bcb7.js"
+  ]
+}
